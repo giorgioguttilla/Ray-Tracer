@@ -1,4 +1,4 @@
-# Ray-Tracer
+# Unity GPU Ray-Tracer
 A simple GPU based Ray-Tracer made in Unity for fun.
 Based on the information provided in https://www.gamasutra.com/blogs/DavidKuri/20180504/317575/GPU_Ray_Tracing_in_Unity__Part_1.php
 
